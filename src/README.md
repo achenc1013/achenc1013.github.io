@@ -3,14 +3,16 @@ home: true
 layout: BlogHome
 icon: house
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+bgImage: /assets/images/zhuye.png
+heroImage: /zhuyelogo.png
+heroText: LUCIFRIX BLOG
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 一个爱瞎捣鼓的网安小白
+
 projects:
-  - icon: folder-open
-    name: 项目名称
-    desc: 项目详细描述
+  - icon: marker 
+    name: Y-SP
+    desc: 专用于计算机技能高考应知离线刷题APP（PC端&Android端）
     link: https://你的项目链接
 
   - icon: link

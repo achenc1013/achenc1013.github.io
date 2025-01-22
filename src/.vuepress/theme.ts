@@ -7,11 +7,11 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "Lucifrix",
     url: "https://mister-hope.com",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/zhuyelogo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -29,7 +29,8 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    avatar: "/assets/images/touxiang.png",
+    description: "一个网安小白",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
