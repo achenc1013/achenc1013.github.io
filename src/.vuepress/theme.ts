@@ -33,7 +33,7 @@ export default hopeTheme({
     description: "一个网安小白",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
+      Baidu: "https://baidu.com",
       BiliBili: "https://example.com",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
@@ -95,7 +95,7 @@ export default hopeTheme({
     attrs: true,
     codeTabs: true,
     component: true,
-    demo: true,
+    demo: false,
     figure: true,
     gfm: true,
     imgLazyload: true,

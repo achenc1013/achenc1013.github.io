@@ -39,9 +39,9 @@ export default navbar([
         ],
       },
       { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
+      { text: "金砖省赛获奖", icon: "pen-to-square", link: "2024-11-02" },
       { text: "金砖国赛获奖", icon: "pen-to-square", link: "2024-12-20" },
-      "strawberry",
+      
     ],
   },
   {
