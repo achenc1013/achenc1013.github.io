@@ -15,36 +15,31 @@ projects:
     desc: 专用于计算机技能高考应知离线刷题APP（PC端&Android端）
     link: https://你的项目链接
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+  - icon: music
+    name: YunceMusic
+    desc: 基于网易云开发的音乐播放器（可以登陆网易云账号使用）
+    link: http://101.35.234.41:88/
 
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+  - icon: hands-holding-child
+    name: HelpSystem(HS)
+    desc: 学生帮助系统（学生慰问系统）
+    link: http://101.35.234.41:8000/
 
   - icon: newspaper
-    name: 文章名称
+    name: 文章
     desc: 文章详细描述
-    link: https://你的文章链接
+    link: https://文章链接
 
   - icon: user-group
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+    name: 杰哥
+    desc: 是我老大，带我入行、带我飞
+    link: https://luistin.github.io/
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
     name: 自定义项目
     desc: 自定义详细介绍
-    link: https://你的自定义链接
+    link: https://自定义链接
 
-footer: 自定义你的页脚文字
+footer: 鄂ICP备2024077749号-1
 ---
 
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
