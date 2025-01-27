@@ -18,7 +18,7 @@ projects:
   - icon: music
     name: YunceMusic
     desc: 基于网易云开发的音乐播放器（可以登陆网易云账号使用）
-    link: http://101.35.234.41:88/
+    link: http://101.35.234.41:3777/
 
   - icon: hands-holding-child
     name: HelpSystem(HS)
