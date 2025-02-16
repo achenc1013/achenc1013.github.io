@@ -19,26 +19,8 @@ export default navbar([
       //     "4",
       //   ],
       // },
-      // {
-      //   text: "香蕉",
-      //   icon: "pen-to-square",
-      //   prefix: "banana/",
-      //   children: [
-      //     {
-      //       text: "香蕉 1",
-      //       icon: "pen-to-square",
-      //       link: "1",
-      //     },
-      //     {
-      //       text: "香蕉 2",
-      //       icon: "pen-to-square",
-      //       link: "2",
-      //     },
-      //     "3",
-      //     "4",
-      //   ],
-      // },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
+      
+      { text: "Web安全-文件上传", icon: "pen-to-square", link: "2025-02-16" },
       { text: "金砖省赛获奖", icon: "pen-to-square", link: "2024-11-02" },
       { text: "金砖国赛获奖", icon: "pen-to-square", link: "2024-12-20" },
       
