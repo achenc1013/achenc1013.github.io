@@ -19,8 +19,16 @@ export default navbar([
       //     "4",
       //   ],
       // },
-      
-      { text: "Web安全-文件上传", icon: "pen-to-square", link: "2025-02-16" },
+      { 
+        text: "Web安全", 
+        icon: "pen-to-square", 
+        prefix: "Web安全/",
+        children: [
+          { text: "Web安全-文件上传", icon: "pen-to-square", link: "2025-02-16" },
+          { text: "Web安全-文件包含", icon: "pen-to-square", link: "2025-02-17" },
+        ],
+      },
+
       { text: "金砖省赛获奖", icon: "pen-to-square", link: "2024-11-02" },
       { text: "金砖国赛获奖", icon: "pen-to-square", link: "2024-12-20" },
       
