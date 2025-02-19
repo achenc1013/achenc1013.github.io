@@ -29,6 +29,16 @@ export default navbar([
         ],
       },
 
+      { 
+        text: "应急响应", 
+        icon: "pen-to-square", 
+        prefix: "应急响应/",
+        children: [
+          { text: "Linux应急响应系统日志排查", icon: "pen-to-square", link: "2025-02-19" },
+          
+        ],
+      },
+
       { text: "金砖省赛获奖", icon: "pen-to-square", link: "2024-11-02" },
       { text: "金砖国赛获奖", icon: "pen-to-square", link: "2024-12-20" },
       

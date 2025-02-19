@@ -13,7 +13,7 @@ projects:
   - icon: marker 
     name: Y-SP
     desc: 专用于计算机技能高考应知离线刷题APP（PC端&Android端）
-    link: https://你的项目链接
+    link: #
 
   - icon: music
     name: YunceMusic
@@ -28,7 +28,7 @@ projects:
   - icon: newspaper
     name: 文章
     desc: 文章详细描述
-    link: https://文章链接
+    link: 
 
   - icon: user-group
     name: 杰哥
