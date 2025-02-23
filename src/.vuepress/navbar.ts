@@ -20,6 +20,15 @@ export default navbar([
       //   ],
       // },
       { 
+        text: "密码学", 
+        icon: "pen-to-square", 
+        prefix: "Crypto/",
+        children: [
+          { text: "RSA", icon: "pen-to-square", link: "2025-02-23" },
+          
+        ],
+      },
+      { 
         text: "Web安全", 
         icon: "pen-to-square", 
         prefix: "Web安全/",
