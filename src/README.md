@@ -13,7 +13,7 @@ projects:
   - icon: marker 
     name: Y-SP
     desc: 专用于计算机技能高考应知离线刷题APP（PC端&Android端）
-    link: #
+    link: http://139.224.220.224:89/
 
   - icon: music
     name: YunceMusic
@@ -26,9 +26,9 @@ projects:
     link: http://101.35.234.41:8000/
 
   - icon: newspaper
-    name: 文章
-    desc: 文章详细描述
-    link: 
+    name: 云晞微商
+    desc: 虚拟商品杂货铺
+    link: http://139.224.220.224/
 
   - icon: user-group
     name: 杰哥
