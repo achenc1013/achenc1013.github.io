@@ -30,15 +30,20 @@ projects:
     desc: 虚拟商品杂货铺
     link: http://139.224.220.224/
 
+  - icon: code
+    name: HTML5幻灯片（会长竞选）
+    desc: 自主开发，用于校内计算机协会会长竞选。
+    link: http://139.224.220.224:6199/
+
   - icon: user-group
     name: 杰哥
     desc: 是我老大，带我入行、带我飞
     link: https://luistin.github.io/
-
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://自定义链接
+  
+  - icon: user-group
+    name: 备长碳
+    desc: 社牛佬
+    link: https://loners.cn/
 
 footer: 鄂ICP备2024077749号-1
 ---
